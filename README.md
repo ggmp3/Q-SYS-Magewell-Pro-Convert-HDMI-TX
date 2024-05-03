@@ -1,5 +1,4 @@
 # Q-SYS-Magewell-Pro-Convert-HDMI-TX
-Q-Sys User Component
 
 - Magwell Pro Convert HDMI TX Q-Sys User Component (REST API)
 - Written by Glen Gorton
